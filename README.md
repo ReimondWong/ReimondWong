@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About me:
+- 🔭 I’m currently a year 3 student working on learning front end and back end of web development as well as collaborating on a game in Unity.
+- 🌱 I’m currently learning html, javascript and css!
+
