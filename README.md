@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About me:
-- 🔭 I’m currently a year 3 student working on learning front end and back end of web development as well as collaborating on a game in Unity.
-- 🌱 I’m currently learning html, javascript and css!
+- 🔭 I’m currently a year 4 software engineering student
+
 
