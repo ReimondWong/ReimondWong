@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About me:
-- ⚡ I’m a year software engineering (BEng Hons) graduate 
+- ⚡ I’m a software engineering (BEng Hons) graduate 
 - 🌱 I’m currently learning algorithms and datastructures
 - 🔭 I’m currently working on improving my proficiency with JavaScript and C++
 
