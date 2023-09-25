@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 About me:
 - ⚡ I’m a (BEng Hons) software engineering graduate 
 - 🌱 I’m currently learning algorithms and data structures
-- 🔭 I’m currently working on improving my proficiency with JavaScript and C++
+- 🔭 I’m currently working on improving my proficiency with Python
 
 
